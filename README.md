@@ -1,3 +1,5 @@
+![Mei Misaki](https://github.com/user-attachments/assets/b4ac1f9a-933f-45b3-a1b1-ec8ae810c0b5)
+
 A WhatsApp bot powered by **Ruby (Sinatra)** with a **Node.js bridge** using [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js).  
 This project is currently in **Beta** stage and built for experimental and learning purposes.
 
